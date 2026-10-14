@@ -1,0 +1,1033 @@
+{
+ "_como_editar": "Cada habilidade tem uma lista de questões. 'alternativas' traz as opções; 'correta' é a posição (a partir de 0) da certa. O site embaralha a ordem ao mostrar. Para adicionar questões, inclua mais objetos na lista da habilidade.",
+ "status": "rascunho: 1 questão por habilidade, pendente de revisão docente",
+ "questoes": {
+  "EF01MA01": [
+   {
+    "id": "EF01MA01-1",
+    "enunciado": "Em qual destas situações o número NÃO indica quantidade nem ordem?",
+    "alternativas": [
+     "O número do telefone de uma loja",
+     "O 3 em “comprei 3 pães”",
+     "O 2 em “2º lugar na fila”",
+     "O 5 em “5 pessoas na sala”"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF01MA02": [
+   {
+    "id": "EF01MA02-1",
+    "enunciado": "Quantas bolinhas há aqui?  ● ● ● ● ● ● ●",
+    "alternativas": [
+     "7",
+     "6",
+     "8",
+     "5"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF01MA03": [
+   {
+    "id": "EF01MA03-1",
+    "enunciado": "Grupo A: ★★★★★★   Grupo B: ★★★★\nO que é verdade?",
+    "alternativas": [
+     "O grupo A tem mais estrelas",
+     "O grupo B tem mais estrelas",
+     "Os dois têm a mesma quantidade",
+     "Não dá para saber"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF01MA04": [
+   {
+    "id": "EF01MA04-1",
+    "enunciado": "Uma caixa tem 4 pacotes com 10 lápis cada e mais 3 lápis soltos. Quantos lápis há ao todo?",
+    "alternativas": [
+     "43",
+     "34",
+     "40",
+     "47"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF01MA05": [
+   {
+    "id": "EF01MA05-1",
+    "enunciado": "Qual é o maior número?",
+    "alternativas": [
+     "85",
+     "58",
+     "69",
+     "79"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF01MA06": [
+   {
+    "id": "EF01MA06-1",
+    "enunciado": "Quanto é 6 + 7?",
+    "alternativas": [
+     "13",
+     "12",
+     "14",
+     "11"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF01MA07": [
+   {
+    "id": "EF01MA07-1",
+    "enunciado": "Qual destas somas é igual a 25?",
+    "alternativas": [
+     "20 + 5",
+     "15 + 5",
+     "20 + 15",
+     "12 + 3"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF01MA08": [
+   {
+    "id": "EF01MA08-1",
+    "enunciado": "Ana tinha 18 figurinhas e ganhou mais 7. Com quantas ficou?",
+    "alternativas": [
+     "25",
+     "24",
+     "11",
+     "26"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF02MA01": [
+   {
+    "id": "EF02MA01-1",
+    "enunciado": "Qual lista está em ordem crescente (do menor para o maior)?",
+    "alternativas": [
+     "305, 350, 503, 530",
+     "350, 305, 530, 503",
+     "503, 530, 305, 350",
+     "530, 503, 350, 305"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF02MA02": [
+   {
+    "id": "EF02MA02-1",
+    "enunciado": "Um pote tem cerca de 10 balas em cada camada e 20 camadas. Qual é a melhor estimativa do total?",
+    "alternativas": [
+     "Cerca de 200",
+     "Cerca de 20",
+     "Cerca de 2.000",
+     "Cerca de 30"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF02MA03": [
+   {
+    "id": "EF02MA03-1",
+    "enunciado": "Maria tem 23 livros e João tem 15. Quantos livros Maria tem a mais que João?",
+    "alternativas": [
+     "8",
+     "38",
+     "12",
+     "7"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF02MA04": [
+   {
+    "id": "EF02MA04-1",
+    "enunciado": "O número 472 é igual a:",
+    "alternativas": [
+     "400 + 70 + 2",
+     "400 + 7 + 2",
+     "40 + 70 + 2",
+     "470 + 20"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF02MA05": [
+   {
+    "id": "EF02MA05-1",
+    "enunciado": "Quanto é 15 − 8?",
+    "alternativas": [
+     "7",
+     "8",
+     "6",
+     "9"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF02MA06": [
+   {
+    "id": "EF02MA06-1",
+    "enunciado": "Uma escola tinha 245 alunos e chegaram mais 132. Quantos alunos a escola tem agora?",
+    "alternativas": [
+     "377",
+     "367",
+     "113",
+     "387"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF02MA07": [
+   {
+    "id": "EF02MA07-1",
+    "enunciado": "Uma caixa tem 4 ovos. Quantos ovos há em 5 caixas?",
+    "alternativas": [
+     "20",
+     "9",
+     "15",
+     "25"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF02MA08": [
+   {
+    "id": "EF02MA08-1",
+    "enunciado": "Qual é a metade de 18?",
+    "alternativas": [
+     "9",
+     "8",
+     "6",
+     "36"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF03MA01": [
+   {
+    "id": "EF03MA01-1",
+    "enunciado": "Como se escreve “três mil e quarenta e cinco” com algarismos?",
+    "alternativas": [
+     "3.045",
+     "3.450",
+     "30.045",
+     "3.405"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF03MA02": [
+   {
+    "id": "EF03MA02-1",
+    "enunciado": "No número 5.382, quanto vale o algarismo 3?",
+    "alternativas": [
+     "300",
+     "3",
+     "30",
+     "3.000"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF03MA03": [
+   {
+    "id": "EF03MA03-1",
+    "enunciado": "Quanto é 7 × 8?",
+    "alternativas": [
+     "56",
+     "54",
+     "48",
+     "64"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF03MA04": [
+   {
+    "id": "EF03MA04-1",
+    "enunciado": "Na reta numérica, você está no 12 e anda 5 casas para a esquerda. Em que número para?",
+    "alternativas": [
+     "7",
+     "17",
+     "8",
+     "6"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF03MA05": [
+   {
+    "id": "EF03MA05-1",
+    "enunciado": "Quanto é 634 − 258?",
+    "alternativas": [
+     "376",
+     "386",
+     "424",
+     "476"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF03MA06": [
+   {
+    "id": "EF03MA06-1",
+    "enunciado": "Um ônibus tem 48 lugares e 29 já estão ocupados. Quantos lugares ainda estão livres?",
+    "alternativas": [
+     "19",
+     "21",
+     "29",
+     "77"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF03MA07": [
+   {
+    "id": "EF03MA07-1",
+    "enunciado": "Um auditório tem 6 fileiras com 10 cadeiras em cada uma. Quantas cadeiras são?",
+    "alternativas": [
+     "60",
+     "16",
+     "50",
+     "70"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF03MA08": [
+   {
+    "id": "EF03MA08-1",
+    "enunciado": "30 bombons foram divididos igualmente entre 4 pessoas. Quantos cada uma recebeu e quantos sobraram?",
+    "alternativas": [
+     "7 cada uma, e sobraram 2",
+     "8 cada uma, e sobraram 2",
+     "7 cada uma, e não sobrou nenhum",
+     "6 cada uma, e sobraram 6"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF03MA09": [
+   {
+    "id": "EF03MA09-1",
+    "enunciado": "Qual é a quinta parte de 40?",
+    "alternativas": [
+     "8",
+     "5",
+     "10",
+     "200"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF04MA01": [
+   {
+    "id": "EF04MA01-1",
+    "enunciado": "Qual é o maior número?",
+    "alternativas": [
+     "45.990",
+     "45.099",
+     "45.909",
+     "45.900"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF04MA02": [
+   {
+    "id": "EF04MA02-1",
+    "enunciado": "O número 30.506 é igual a:",
+    "alternativas": [
+     "3 × 10.000 + 5 × 100 + 6",
+     "3 × 1.000 + 5 × 100 + 6",
+     "3 × 10.000 + 5 × 10 + 6",
+     "30 × 100 + 506"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF04MA03": [
+   {
+    "id": "EF04MA03-1",
+    "enunciado": "Uma loja vendeu 1.245 camisas em maio e 987 em junho. Quantas camisas vendeu a mais em maio?",
+    "alternativas": [
+     "258",
+     "268",
+     "358",
+     "2.232"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF04MA04": [
+   {
+    "id": "EF04MA04-1",
+    "enunciado": "Sabendo que 12 × 15 = 180, quanto é 180 ÷ 15?",
+    "alternativas": [
+     "12",
+     "15",
+     "165",
+     "195"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF04MA05": [
+   {
+    "id": "EF04MA05-1",
+    "enunciado": "Para calcular 25 × 12 de cabeça, qual conta dá o mesmo resultado?",
+    "alternativas": [
+     "25 × 10 + 25 × 2",
+     "25 × 10 + 2",
+     "25 + 12 × 10",
+     "20 × 12 + 5"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF04MA06": [
+   {
+    "id": "EF04MA06-1",
+    "enunciado": "Um ingresso custa R$ 24. Quanto custam 13 ingressos?",
+    "alternativas": [
+     "R$ 312",
+     "R$ 302",
+     "R$ 288",
+     "R$ 37"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF04MA07": [
+   {
+    "id": "EF04MA07-1",
+    "enunciado": "Uma empresa vai dividir 384 brindes igualmente em 12 caixas. Quantos brindes vão em cada caixa?",
+    "alternativas": [
+     "32",
+     "34",
+     "30",
+     "36"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF04MA08": [
+   {
+    "id": "EF04MA08-1",
+    "enunciado": "Com 3 blusas e 4 saias, quantas combinações diferentes de uma blusa com uma saia dá para montar?",
+    "alternativas": [
+     "12",
+     "7",
+     "9",
+     "16"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF04MA09": [
+   {
+    "id": "EF04MA09-1",
+    "enunciado": "Uma pizza foi dividida em 4 pedaços iguais. Cada pedaço é que fração da pizza?",
+    "alternativas": [
+     "1/4",
+     "1/2",
+     "4/1",
+     "1/3"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF04MA10": [
+   {
+    "id": "EF04MA10-1",
+    "enunciado": "Em R$ 2,35, o que representa o algarismo 3?",
+    "alternativas": [
+     "3 décimos de real, ou seja, 30 centavos",
+     "3 centavos",
+     "3 reais",
+     "3 milésimos de real"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF05MA01": [
+   {
+    "id": "EF05MA01-1",
+    "enunciado": "Como se lê o número 307.050?",
+    "alternativas": [
+     "Trezentos e sete mil e cinquenta",
+     "Trinta mil setecentos e cinquenta",
+     "Trezentos e sete mil e quinhentos",
+     "Três milhões, setenta mil e cinquenta"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF05MA02": [
+   {
+    "id": "EF05MA02-1",
+    "enunciado": "Qual número está entre 2,4 e 2,5?",
+    "alternativas": [
+     "2,45",
+     "2,54",
+     "2,05",
+     "2,6"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF05MA03": [
+   {
+    "id": "EF05MA03-1",
+    "enunciado": "Dividindo 3 barras de chocolate igualmente entre 4 pessoas, quanto cada uma recebe?",
+    "alternativas": [
+     "3/4 de barra",
+     "4/3 de barra",
+     "1/4 de barra",
+     "1/3 de barra"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF05MA04": [
+   {
+    "id": "EF05MA04-1",
+    "enunciado": "Qual fração é equivalente a 2/3?",
+    "alternativas": [
+     "4/6",
+     "3/2",
+     "2/6",
+     "4/3"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF05MA05": [
+   {
+    "id": "EF05MA05-1",
+    "enunciado": "Qual é o maior número?",
+    "alternativas": [
+     "0,7",
+     "3/5",
+     "0,65",
+     "1/2"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF05MA06": [
+   {
+    "id": "EF05MA06-1",
+    "enunciado": "Uma blusa custa R$ 80. Quanto é 25% desse valor?",
+    "alternativas": [
+     "R$ 20",
+     "R$ 25",
+     "R$ 40",
+     "R$ 8"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF05MA07": [
+   {
+    "id": "EF05MA07-1",
+    "enunciado": "Paguei R$ 12,75 no mercado com uma nota de R$ 20. Quanto recebi de troco?",
+    "alternativas": [
+     "R$ 7,25",
+     "R$ 8,25",
+     "R$ 7,35",
+     "R$ 8,75"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF05MA08": [
+   {
+    "id": "EF05MA08-1",
+    "enunciado": "Um quilo de café custa R$ 18,50. Quanto custam 3 quilos?",
+    "alternativas": [
+     "R$ 55,50",
+     "R$ 54,50",
+     "R$ 55,00",
+     "R$ 21,50"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF05MA09": [
+   {
+    "id": "EF05MA09-1",
+    "enunciado": "Um restaurante oferece 3 entradas e 5 pratos principais. Quantos pedidos diferentes de uma entrada com um prato principal existem?",
+    "alternativas": [
+     "15",
+     "8",
+     "10",
+     "35"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF06MA01": [
+   {
+    "id": "EF06MA01-1",
+    "enunciado": "Qual lista está em ordem crescente?",
+    "alternativas": [
+     "0,09; 0,9; 1,09; 1,9",
+     "0,9; 0,09; 1,9; 1,09",
+     "1,09; 1,9; 0,09; 0,9",
+     "0,09; 1,09; 0,9; 1,9"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF06MA02": [
+   {
+    "id": "EF06MA02-1",
+    "enunciado": "No número 405, o que o zero indica?",
+    "alternativas": [
+     "Que não há dezenas",
+     "Que o número é par",
+     "Que não há centenas",
+     "Nada: ele pode ser apagado"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF06MA03": [
+   {
+    "id": "EF06MA03-1",
+    "enunciado": "Quanto é 2³ + 4 × 5?",
+    "alternativas": [
+     "28",
+     "60",
+     "26",
+     "40"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF06MA04": [
+   {
+    "id": "EF06MA04-1",
+    "enunciado": "Para descobrir se um número natural é par, qual teste basta?",
+    "alternativas": [
+     "Ver se o resto da divisão por 2 é zero",
+     "Ver se ele termina em 5",
+     "Ver se ele é maior que 10",
+     "Ver se a soma dos algarismos é 9"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF06MA05": [
+   {
+    "id": "EF06MA05-1",
+    "enunciado": "Qual destes números é primo?",
+    "alternativas": [
+     "29",
+     "27",
+     "21",
+     "35"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF06MA06": [
+   {
+    "id": "EF06MA06-1",
+    "enunciado": "Você quer arrumar 36 cadeiras em fileiras iguais, sem sobrar nenhuma. Qual quantidade de cadeiras por fileira NÃO funciona?",
+    "alternativas": [
+     "8",
+     "6",
+     "9",
+     "12"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF06MA07": [
+   {
+    "id": "EF06MA07-1",
+    "enunciado": "Qual fração é a maior?",
+    "alternativas": [
+     "3/4",
+     "2/3",
+     "5/8",
+     "1/2"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF06MA08": [
+   {
+    "id": "EF06MA08-1",
+    "enunciado": "A fração 3/5 é igual a qual número decimal?",
+    "alternativas": [
+     "0,6",
+     "0,35",
+     "3,5",
+     "0,53"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF06MA09": [
+   {
+    "id": "EF06MA09-1",
+    "enunciado": "Quanto é 2/5 de 30?",
+    "alternativas": [
+     "12",
+     "15",
+     "6",
+     "10"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF06MA10": [
+   {
+    "id": "EF06MA10-1",
+    "enunciado": "Quanto é 1/2 + 1/3?",
+    "alternativas": [
+     "5/6",
+     "2/5",
+     "1/5",
+     "2/6"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF06MA11": [
+   {
+    "id": "EF06MA11-1",
+    "enunciado": "Três camisetas de R$ 24,90 custam quanto ao todo?",
+    "alternativas": [
+     "R$ 74,70",
+     "R$ 72,70",
+     "R$ 74,90",
+     "R$ 73,70"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF06MA12": [
+   {
+    "id": "EF06MA12-1",
+    "enunciado": "Arredondando 4.786 para a centena mais próxima, quanto dá?",
+    "alternativas": [
+     "4.800",
+     "4.700",
+     "5.000",
+     "4.790"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF06MA13": [
+   {
+    "id": "EF06MA13-1",
+    "enunciado": "Numa turma de 40 pessoas, 30% são mulheres. Quantas mulheres há na turma?",
+    "alternativas": [
+     "12",
+     "30",
+     "10",
+     "13"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF07MA01": [
+   {
+    "id": "EF07MA01-1",
+    "enunciado": "Um ônibus passa a cada 12 minutos e outro a cada 18. Os dois saíram juntos às 8h. A que horas saem juntos de novo?",
+    "alternativas": [
+     "Às 8h36",
+     "Às 8h30",
+     "Às 8h06",
+     "Às 9h"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF07MA02": [
+   {
+    "id": "EF07MA02-1",
+    "enunciado": "Um produto de R$ 150 teve desconto de 20%. Qual é o novo preço?",
+    "alternativas": [
+     "R$ 120",
+     "R$ 130",
+     "R$ 30",
+     "R$ 180"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF07MA03": [
+   {
+    "id": "EF07MA03-1",
+    "enunciado": "Qual destas temperaturas é a mais baixa?",
+    "alternativas": [
+     "−7 °C",
+     "−2 °C",
+     "0 °C",
+     "3 °C"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF07MA04": [
+   {
+    "id": "EF07MA04-1",
+    "enunciado": "Quanto é (−3) × (−4) + (−5)?",
+    "alternativas": [
+     "7",
+     "−17",
+     "17",
+     "−7"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF07MA05": [
+   {
+    "id": "EF07MA05-1",
+    "enunciado": "Para calcular 15% de 200, qual destes caminhos NÃO chega ao resultado certo?",
+    "alternativas": [
+     "Somar 15 com 200",
+     "Calcular 10% (que é 20) e somar 5% (que é 10)",
+     "Multiplicar 200 por 0,15",
+     "Dividir 200 por 100 e multiplicar por 15"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF07MA06": [
+   {
+    "id": "EF07MA06-1",
+    "enunciado": "“Repartir R$ 60 entre 3 pessoas” e “distribuir 60 cadeiras em 3 salas, igualmente” são dois problemas que:",
+    "alternativas": [
+     "Se resolvem com a mesma conta, 60 ÷ 3",
+     "Precisam de contas diferentes, porque os temas são diferentes",
+     "Só se resolvem com calculadora",
+     "Não têm solução exata"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF07MA07": [
+   {
+    "id": "EF07MA07-1",
+    "enunciado": "Num fluxograma que decide se um número é múltiplo de 5, qual pergunta deve aparecer?",
+    "alternativas": [
+     "O último algarismo é 0 ou 5?",
+     "O número é maior que 5?",
+     "A soma dos algarismos é 5?",
+     "O primeiro algarismo é 5?"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF07MA08": [
+   {
+    "id": "EF07MA08-1",
+    "enunciado": "Qual destas frações é a menor?",
+    "alternativas": [
+     "2/9",
+     "1/3",
+     "3/8",
+     "1/4"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF07MA09": [
+   {
+    "id": "EF07MA09-1",
+    "enunciado": "Numa receita, para cada 2 xícaras de farinha usam-se 3 xícaras de leite. Que fração representa a razão entre farinha e leite?",
+    "alternativas": [
+     "2/3",
+     "3/2",
+     "2/5",
+     "3/5"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF07MA10": [
+   {
+    "id": "EF07MA10-1",
+    "enunciado": "Qual número está entre −1 e 0?",
+    "alternativas": [
+     "−0,5",
+     "−1,5",
+     "0,5",
+     "−2"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF07MA11": [
+   {
+    "id": "EF07MA11-1",
+    "enunciado": "Quanto é 3/4 × 2/3?",
+    "alternativas": [
+     "1/2",
+     "5/7",
+     "6/7",
+     "9/8"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF07MA12": [
+   {
+    "id": "EF07MA12-1",
+    "enunciado": "Quanto é 2/3 − 1/4 × 2?",
+    "alternativas": [
+     "1/6",
+     "5/6",
+     "1/2",
+     "2/3"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF08MA01": [
+   {
+    "id": "EF08MA01-1",
+    "enunciado": "Como se escreve 0,00042 em notação científica?",
+    "alternativas": [
+     "4,2 × 10⁻⁴",
+     "4,2 × 10⁴",
+     "42 × 10⁻⁴",
+     "4,2 × 10⁻⁵"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF08MA02": [
+   {
+    "id": "EF08MA02-1",
+    "enunciado": "A raiz quadrada de 9 pode ser escrita como:",
+    "alternativas": [
+     "9 elevado a 1/2",
+     "9 elevado a 2",
+     "9 elevado a −2",
+     "9 dividido por 2"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF08MA03": [
+   {
+    "id": "EF08MA03-1",
+    "enunciado": "Uma senha tem 3 dígitos, e cada dígito pode ir de 0 a 9. Quantas senhas diferentes existem?",
+    "alternativas": [
+     "1.000",
+     "30",
+     "729",
+     "999"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF08MA04": [
+   {
+    "id": "EF08MA04-1",
+    "enunciado": "A conta de luz passou de R$ 200 para R$ 230. Qual foi o aumento percentual?",
+    "alternativas": [
+     "15%",
+     "30%",
+     "13%",
+     "23%"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF08MA05": [
+   {
+    "id": "EF08MA05-1",
+    "enunciado": "Qual fração gera a dízima periódica 0,333...?",
+    "alternativas": [
+     "1/3",
+     "3/10",
+     "33/100",
+     "1/30"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF09MA01": [
+   {
+    "id": "EF09MA01-1",
+    "enunciado": "Um quadrado tem 1 metro de lado. O que se pode dizer da medida da diagonal?",
+    "alternativas": [
+     "É √2 m, um número que não pode ser escrito como fração",
+     "É exatamente 1,5 m",
+     "É exatamente 2 m",
+     "É exatamente 1,4 m"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF09MA02": [
+   {
+    "id": "EF09MA02-1",
+    "enunciado": "Qual destes números é irracional?",
+    "alternativas": [
+     "√5",
+     "0,25",
+     "1/7",
+     "0,121212..."
+    ],
+    "correta": 0
+   }
+  ],
+  "EF09MA03": [
+   {
+    "id": "EF09MA03-1",
+    "enunciado": "Quanto é 8 elevado a 1/3?",
+    "alternativas": [
+     "2",
+     "4",
+     "8/3",
+     "24"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF09MA04": [
+   {
+    "id": "EF09MA04-1",
+    "enunciado": "A distância da Terra ao Sol é de cerca de 1,5 × 10⁸ km. Quanto é o dobro dessa distância?",
+    "alternativas": [
+     "3 × 10⁸ km",
+     "3 × 10¹⁶ km",
+     "1,5 × 10¹⁶ km",
+     "3 × 10⁴ km"
+    ],
+    "correta": 0
+   }
+  ],
+  "EF09MA05": [
+   {
+    "id": "EF09MA05-1",
+    "enunciado": "Um investimento rende 10% ao ano sobre o valor acumulado. Quem aplica R$ 1.000 terá quanto depois de 2 anos?",
+    "alternativas": [
+     "R$ 1.210",
+     "R$ 1.200",
+     "R$ 1.100",
+     "R$ 1.020"
+    ],
+    "correta": 0
+   }
+  ]
+ }
+}

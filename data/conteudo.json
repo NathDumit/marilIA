@@ -1,0 +1,45 @@
+{
+  "_como_editar": "Textos do site. Mude à vontade; o código lê este arquivo ao abrir a página.",
+  "nome": "MarilIA",
+  "nome_destaque": "IA",
+  "slogan": "Descubra de onde a sua matemática começa.",
+  "chamada": "Um teste curto que encontra o ponto exato em que a sua base de matemática travou e monta a trilha daí até a ciência e a tecnologia.",
+  "garantias": [
+    "De 10 a 25 perguntas, no seu ritmo",
+    "Sem nota e sem cronômetro",
+    "“Ainda não sei” é uma resposta válida"
+  ],
+  "como_funciona": [
+    { "titulo": "Você responde", "texto": "Cada pergunta é sobre uma habilidade da BNCC, do 1º ao 9º ano. Errou ou não sabe? O teste desce para a base daquela habilidade." },
+    { "titulo": "A MarilIA procura o tijolo que falta", "texto": "Acertou? O teste sobe. Em poucas perguntas, ele acha onde a sua base para de se sustentar." },
+    { "titulo": "Você recebe a sua trilha", "texto": "O seu ponto de partida e o caminho completo a partir dele, com estudo gratuito em cada etapa." }
+  ],
+  "homenagem": {
+    "titulo": "Por que MarilIA",
+    "paragrafos": [
+      "Marília Chaves Peixoto (1921–1961) nasceu em Santana do Livramento, no Rio Grande do Sul. Formou-se em engenharia no Rio de Janeiro e, em 1948, tornou-se a primeira brasileira a receber um doutorado em matemática.",
+      "Em 1951, foi a primeira brasileira a entrar para a Academia Brasileira de Ciências. Estudou sistemas dinâmicos, escreveu um livro de cálculo vetorial para estudantes e publicou com Maurício Peixoto trabalhos que levaram ao teorema que hoje leva o nome dele.",
+      "Ela abriu uma porta que ficou fechada para muitas mulheres por muito tempo. A MarilIA existe para mostrar que essa porta está aberta, e que dá para chegar lá a partir de onde você estiver hoje."
+    ],
+    "fonte": { "texto": "Fonte: Wikipédia, “Marília Chaves Peixoto”", "url": "https://en.wikipedia.org/wiki/Mar%C3%ADlia_Chaves_Peixoto" }
+  },
+  "depois_do_9_ano": [
+    "Álgebra e funções",
+    "Trigonometria",
+    "Pré-cálculo",
+    "Cálculo",
+    "Estatística e dados",
+    "Ciência, tecnologia e IA"
+  ],
+  "mulheres": [
+    { "nome": "Marília Chaves Peixoto", "texto": "Primeira brasileira doutora em matemática (1948)." },
+    { "nome": "Ada Lovelace", "texto": "Em 1843, publicou o que é considerado o primeiro algoritmo escrito para uma máquina." },
+    { "nome": "Katherine Johnson", "texto": "Calculou trajetórias de voos espaciais da NASA." },
+    { "nome": "Maryam Mirzakhani", "texto": "Em 2014, foi a primeira mulher a receber a Medalha Fields." }
+  ],
+  "aviso_rascunho": "Versão de teste: as questões e as ligações entre habilidades ainda estão sendo revisadas por professoras de matemática.",
+  "estudo": {
+    "rotulo": "Estudar na Khan Academy",
+    "busca_url": "https://pt.khanacademy.org/search?page_search_query="
+  }
+}

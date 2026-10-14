@@ -1,0 +1,1353 @@
+{
+ "versao": "0.1.0-mvp",
+ "fonte": "Textos oficiais da BNCC (2018) via bncc.dev / bncc-dev/bncc-dados, licença CC BY 4.0 (https://github.com/bncc-dev/bncc-dados). Textos normativos da BNCC são atos oficiais (Lei 9.610/1998, art. 8º, IV).",
+ "eixo": "Números",
+ "etapa": "Ensino Fundamental",
+ "habilidades": [
+  {
+   "codigo": "EF01MA01",
+   "titulo": "Para que servem os números",
+   "ano": 1,
+   "objetos_conhecimento": [
+    "Contagem de rotina",
+    "Contagem ascendente e descendente",
+    "Reconhecimento de números no contexto diário: indicação de quantidades, indicação de ordem ou indicação de código para a organização de informações"
+   ],
+   "descricao": "Utilizar números naturais como indicador de quantidade ou de ordem em diferentes situações cotidianas e reconhecer situações em que os números não indicam contagem nem ordem, mas sim código de identificação.",
+   "pre_requisitos": [],
+   "dependentes": [
+    "EF01MA04"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF01MA02",
+   "titulo": "Contar quantidades",
+   "ano": 1,
+   "objetos_conhecimento": [
+    "Quantificação de elementos de uma coleção: estimativas, contagem um a um, pareamento ou outros agrupamentos e comparação"
+   ],
+   "descricao": "Contar de maneira exata ou aproximada, utilizando diferentes estratégias como o pareamento e outros agrupamentos.",
+   "pre_requisitos": [],
+   "dependentes": [
+    "EF01MA03",
+    "EF01MA04"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF01MA03",
+   "titulo": "Comparar quantidades",
+   "ano": 1,
+   "objetos_conhecimento": [
+    "Quantificação de elementos de uma coleção: estimativas, contagem um a um, pareamento ou outros agrupamentos e comparação"
+   ],
+   "descricao": "Estimar e comparar quantidades de objetos de dois conjuntos (em torno de 20 elementos), por estimativa e/ou por correspondência (um a um, dois a dois) para indicar “tem mais”, “tem menos” ou “tem a mesma quantidade”.",
+   "pre_requisitos": [
+    "EF01MA02"
+   ],
+   "dependentes": [
+    "EF02MA02",
+    "EF02MA03"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF01MA04",
+   "titulo": "Contar e escrever números até 100",
+   "ano": 1,
+   "objetos_conhecimento": [
+    "Leitura, escrita e comparação de números naturais (até 100)",
+    "Reta numérica"
+   ],
+   "descricao": "Contar a quantidade de objetos de coleções até 100 unidades e apresentar o resultado por registros verbais e simbólicos, em situações de seu interesse, como jogos, brincadeiras, materiais da sala de aula, entre outros.",
+   "pre_requisitos": [
+    "EF01MA01",
+    "EF01MA02"
+   ],
+   "dependentes": [
+    "EF01MA05",
+    "EF01MA06"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF01MA05",
+   "titulo": "Comparar números até 100",
+   "ano": 1,
+   "objetos_conhecimento": [
+    "Leitura, escrita e comparação de números naturais (até 100)",
+    "Reta numérica"
+   ],
+   "descricao": "Comparar números naturais de até duas ordens em situações cotidianas, com e sem suporte da reta numérica.",
+   "pre_requisitos": [
+    "EF01MA04"
+   ],
+   "dependentes": [
+    "EF02MA01"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF01MA06",
+   "titulo": "Fatos básicos da adição",
+   "ano": 1,
+   "objetos_conhecimento": [
+    "Construção de fatos básicos da adição"
+   ],
+   "descricao": "Construir fatos básicos da adição e utilizá-los em procedimentos de cálculo para resolver problemas.",
+   "pre_requisitos": [
+    "EF01MA04"
+   ],
+   "dependentes": [
+    "EF01MA07",
+    "EF01MA08",
+    "EF02MA05"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF01MA07",
+   "titulo": "Compor e decompor números",
+   "ano": 1,
+   "objetos_conhecimento": [
+    "Composição e decomposição de números naturais"
+   ],
+   "descricao": "Compor e decompor número de até duas ordens, por meio de diferentes adições, com o suporte de material manipulável, contribuindo para a compreensão de características do sistema de numeração decimal e o desenvolvimento de estratégias de cálculo.",
+   "pre_requisitos": [
+    "EF01MA06"
+   ],
+   "dependentes": [
+    "EF02MA01"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF01MA08",
+   "titulo": "Problemas de somar e tirar",
+   "ano": 1,
+   "objetos_conhecimento": [
+    "Problemas envolvendo diferentes significados da adição e da subtração (juntar, acrescentar, separar, retirar)"
+   ],
+   "descricao": "Resolver e elaborar problemas de adição e de subtração, envolvendo números de até dois algarismos, com os significados de juntar, acrescentar, separar e retirar, com o suporte de imagens e/ou material manipulável, utilizando estratégias e formas de registro pessoais.",
+   "pre_requisitos": [
+    "EF01MA06"
+   ],
+   "dependentes": [
+    "EF02MA03",
+    "EF02MA06"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF02MA01",
+   "titulo": "Valor posicional até as centenas",
+   "ano": 2,
+   "objetos_conhecimento": [
+    "Leitura, escrita, comparação e ordenação de números de até três ordens pela compreensão de características do sistema de numeração decimal (valor posicional e papel do zero)"
+   ],
+   "descricao": "Comparar e ordenar números naturais (até a ordem de centenas) pela compreensão de características do sistema de numeração decimal (valor posicional e função do zero).",
+   "pre_requisitos": [
+    "EF01MA05",
+    "EF01MA07"
+   ],
+   "dependentes": [
+    "EF02MA02",
+    "EF02MA04",
+    "EF03MA01",
+    "EF03MA04"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF02MA02",
+   "titulo": "Estimar quantidades até 1.000",
+   "ano": 2,
+   "objetos_conhecimento": [
+    "Leitura, escrita, comparação e ordenação de números de até três ordens pela compreensão de características do sistema de numeração decimal (valor posicional e papel do zero)"
+   ],
+   "descricao": "Fazer estimativas por meio de estratégias diversas a respeito da quantidade de objetos de coleções e registrar o resultado da contagem desses objetos (até 1000 unidades).",
+   "pre_requisitos": [
+    "EF01MA03",
+    "EF02MA01"
+   ],
+   "dependentes": [],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF02MA03",
+   "titulo": "Quantos a mais, quantos a menos",
+   "ano": 2,
+   "objetos_conhecimento": [
+    "Leitura, escrita, comparação e ordenação de números de até três ordens pela compreensão de características do sistema de numeração decimal (valor posicional e papel do zero)"
+   ],
+   "descricao": "Comparar quantidades de objetos de dois conjuntos, por estimativa e/ou por correspondência (um a um, dois a dois, entre outros), para indicar “tem mais”, “tem menos” ou “tem a mesma quantidade”, indicando, quando for o caso, quantos a mais e quantos a menos.",
+   "pre_requisitos": [
+    "EF01MA03",
+    "EF01MA08"
+   ],
+   "dependentes": [
+    "EF03MA06"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF02MA04",
+   "titulo": "Decompor números até 1.000",
+   "ano": 2,
+   "objetos_conhecimento": [
+    "Composição e decomposição de números naturais (até 1000)"
+   ],
+   "descricao": "Compor e decompor números naturais de até três ordens, com suporte de material manipulável, por meio de diferentes adições.",
+   "pre_requisitos": [
+    "EF02MA01"
+   ],
+   "dependentes": [
+    "EF02MA06",
+    "EF03MA02"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF02MA05",
+   "titulo": "Fatos básicos de adição e subtração",
+   "ano": 2,
+   "objetos_conhecimento": [
+    "Construção de fatos fundamentais da adição e da subtração"
+   ],
+   "descricao": "Construir fatos básicos da adição e subtração e utilizá-los no cálculo mental ou escrito.",
+   "pre_requisitos": [
+    "EF01MA06"
+   ],
+   "dependentes": [
+    "EF02MA06",
+    "EF02MA07",
+    "EF03MA04"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF02MA06",
+   "titulo": "Problemas de adição e subtração",
+   "ano": 2,
+   "objetos_conhecimento": [
+    "Problemas envolvendo diferentes significados da adição e da subtração (juntar, acrescentar, separar, retirar)"
+   ],
+   "descricao": "Resolver e elaborar problemas de adição e de subtração, envolvendo números de até três ordens, com os significados de juntar, acrescentar, separar, retirar, utilizando estratégias pessoais.",
+   "pre_requisitos": [
+    "EF01MA08",
+    "EF02MA04",
+    "EF02MA05"
+   ],
+   "dependentes": [
+    "EF03MA05"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF02MA07",
+   "titulo": "Multiplicação como soma repetida",
+   "ano": 2,
+   "objetos_conhecimento": [
+    "Problemas envolvendo adição de parcelas iguais (multiplicação)"
+   ],
+   "descricao": "Resolver e elaborar problemas de multiplicação (por 2, 3, 4 e 5) com a ideia de adição de parcelas iguais por meio de estratégias e formas de registro pessoais, utilizando ou não suporte de imagens e/ou material manipulável.",
+   "pre_requisitos": [
+    "EF02MA05"
+   ],
+   "dependentes": [
+    "EF02MA08",
+    "EF03MA03"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF02MA08",
+   "titulo": "Dobro, metade, triplo e terça parte",
+   "ano": 2,
+   "objetos_conhecimento": [
+    "Problemas envolvendo significados de dobro, metade, triplo e terça parte"
+   ],
+   "descricao": "Resolver e elaborar problemas envolvendo dobro, metade, triplo e terça parte, com o suporte de imagens ou material manipulável, utilizando estratégias pessoais.",
+   "pre_requisitos": [
+    "EF02MA07"
+   ],
+   "dependentes": [
+    "EF03MA08"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF03MA01",
+   "titulo": "Números até a unidade de milhar",
+   "ano": 3,
+   "objetos_conhecimento": [
+    "Leitura, escrita, comparação e ordenação de números naturais de quatro ordens"
+   ],
+   "descricao": "Ler, escrever e comparar números naturais de até a ordem de unidade de milhar, estabelecendo relações entre os registros numéricos e em língua materna.",
+   "pre_requisitos": [
+    "EF02MA01"
+   ],
+   "dependentes": [
+    "EF03MA02",
+    "EF04MA01"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF03MA02",
+   "titulo": "Sistema de numeração decimal",
+   "ano": 3,
+   "objetos_conhecimento": [
+    "Composição e decomposição de números naturais"
+   ],
+   "descricao": "Identificar características do sistema de numeração decimal, utilizando a composição e a decomposição de número natural de até quatro ordens.",
+   "pre_requisitos": [
+    "EF02MA04",
+    "EF03MA01"
+   ],
+   "dependentes": [
+    "EF03MA05",
+    "EF04MA02"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF03MA03",
+   "titulo": "Tabuada e fatos da multiplicação",
+   "ano": 3,
+   "objetos_conhecimento": [
+    "Construção de fatos fundamentais da adição, subtração e multiplicação",
+    "Reta numérica"
+   ],
+   "descricao": "Construir e utilizar fatos básicos da adição e da multiplicação para o cálculo mental ou escrito.",
+   "pre_requisitos": [
+    "EF02MA07"
+   ],
+   "dependentes": [
+    "EF03MA05",
+    "EF03MA07"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF03MA04",
+   "titulo": "Reta numérica",
+   "ano": 3,
+   "objetos_conhecimento": [
+    "Construção de fatos fundamentais da adição, subtração e multiplicação",
+    "Reta numérica"
+   ],
+   "descricao": "Estabelecer a relação entre números naturais e pontos da reta numérica para utilizá-la na ordenação dos números naturais e também na construção de fatos da adição e da subtração, relacionando-os com deslocamentos para a direita ou para a esquerda.",
+   "pre_requisitos": [
+    "EF02MA01",
+    "EF02MA05"
+   ],
+   "dependentes": [
+    "EF04MA09"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF03MA05",
+   "titulo": "Contas de adição e subtração",
+   "ano": 3,
+   "objetos_conhecimento": [
+    "Procedimentos de cálculo (mental e escrito) com números naturais: adição e subtração"
+   ],
+   "descricao": "Utilizar diferentes procedimentos de cálculo mental e escrito, inclusive os convencionais, para resolver problemas significativos envolvendo adição e subtração com números naturais.",
+   "pre_requisitos": [
+    "EF02MA06",
+    "EF03MA02",
+    "EF03MA03"
+   ],
+   "dependentes": [
+    "EF03MA06",
+    "EF04MA04"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF03MA06",
+   "titulo": "Problemas com adição e subtração",
+   "ano": 3,
+   "objetos_conhecimento": [
+    "Problemas envolvendo significados da adição e da subtração: juntar, acrescentar, separar, retirar, comparar e completar quantidades"
+   ],
+   "descricao": "Resolver e elaborar problemas de adição e subtração com os significados de juntar, acrescentar, separar, retirar, comparar e completar quantidades, utilizando diferentes estratégias de cálculo exato ou aproximado, incluindo cálculo mental.",
+   "pre_requisitos": [
+    "EF02MA03",
+    "EF03MA05"
+   ],
+   "dependentes": [
+    "EF04MA03"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF03MA07",
+   "titulo": "Problemas de multiplicação",
+   "ano": 3,
+   "objetos_conhecimento": [
+    "Problemas envolvendo diferentes significados da multiplicação e da divisão: adição de parcelas iguais, configuração retangular, repartição em partes iguais e medida"
+   ],
+   "descricao": "Resolver e elaborar problemas de multiplicação (por 2, 3, 4, 5 e 10) com os significados de adição de parcelas iguais e elementos apresentados em disposição retangular, utilizando diferentes estratégias de cálculo e registros.",
+   "pre_requisitos": [
+    "EF03MA03"
+   ],
+   "dependentes": [
+    "EF03MA08",
+    "EF04MA02",
+    "EF04MA05",
+    "EF04MA08"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF03MA08",
+   "titulo": "Divisão com e sem resto",
+   "ano": 3,
+   "objetos_conhecimento": [
+    "Problemas envolvendo diferentes significados da multiplicação e da divisão: adição de parcelas iguais, configuração retangular, repartição em partes iguais e medida"
+   ],
+   "descricao": "Resolver e elaborar problemas de divisão de um número natural por outro (até 10), com resto zero e com resto diferente de zero, com os significados de repartição equitativa e de medida, por meio de estratégias e registros pessoais.",
+   "pre_requisitos": [
+    "EF02MA08",
+    "EF03MA07"
+   ],
+   "dependentes": [
+    "EF03MA09",
+    "EF04MA04"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF03MA09",
+   "titulo": "Metade, terça, quarta, quinta e décima parte",
+   "ano": 3,
+   "objetos_conhecimento": [
+    "Significados de metade, terça parte, quarta parte, quinta parte e décima parte"
+   ],
+   "descricao": "Associar o quociente de uma divisão com resto zero de um número natural por 2, 3, 4, 5 e 10 às ideias de metade, terça, quarta, quinta e décima partes.",
+   "pre_requisitos": [
+    "EF03MA08"
+   ],
+   "dependentes": [
+    "EF04MA09"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF04MA01",
+   "titulo": "Números até a dezena de milhar",
+   "ano": 4,
+   "objetos_conhecimento": [
+    "Sistema de numeração decimal: leitura, escrita, comparação e ordenação de números naturais de até cinco ordens"
+   ],
+   "descricao": "Ler, escrever e ordenar números naturais até a ordem de dezenas de milhar.",
+   "pre_requisitos": [
+    "EF03MA01"
+   ],
+   "dependentes": [
+    "EF04MA02",
+    "EF04MA03"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF04MA02",
+   "titulo": "Decompor com potências de 10",
+   "ano": 4,
+   "objetos_conhecimento": [
+    "Composição e decomposição de um número natural de até cinco ordens, por meio de adições e multiplicações por potências de 10"
+   ],
+   "descricao": "Mostrar, por decomposição e composição, que todo número natural pode ser escrito por meio de adições e multiplicações por potências de dez, para compreender o sistema de numeração decimal e desenvolver estratégias de cálculo.",
+   "pre_requisitos": [
+    "EF03MA02",
+    "EF03MA07",
+    "EF04MA01"
+   ],
+   "dependentes": [
+    "EF04MA10",
+    "EF05MA01"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF04MA03",
+   "titulo": "Problemas com números grandes",
+   "ano": 4,
+   "objetos_conhecimento": [
+    "Propriedades das operações para o desenvolvimento de diferentes estratégias de cálculo com números naturais"
+   ],
+   "descricao": "Resolver e elaborar problemas com números naturais envolvendo adição e subtração, utilizando estratégias diversas, como cálculo, cálculo mental e algoritmos, além de fazer estimativas do resultado.",
+   "pre_requisitos": [
+    "EF03MA06",
+    "EF04MA01"
+   ],
+   "dependentes": [
+    "EF05MA07"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF04MA04",
+   "titulo": "Operações inversas",
+   "ano": 4,
+   "objetos_conhecimento": [
+    "Propriedades das operações para o desenvolvimento de diferentes estratégias de cálculo com números naturais"
+   ],
+   "descricao": "Utilizar as relações entre adição e subtração, bem como entre multiplicação e divisão, para ampliar as estratégias de cálculo.",
+   "pre_requisitos": [
+    "EF03MA05",
+    "EF03MA08"
+   ],
+   "dependentes": [
+    "EF04MA07"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF04MA05",
+   "titulo": "Propriedades das operações",
+   "ano": 4,
+   "objetos_conhecimento": [
+    "Propriedades das operações para o desenvolvimento de diferentes estratégias de cálculo com números naturais"
+   ],
+   "descricao": "Utilizar as propriedades das operações para desenvolver estratégias de cálculo.",
+   "pre_requisitos": [
+    "EF03MA07"
+   ],
+   "dependentes": [
+    "EF04MA06"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF04MA06",
+   "titulo": "Problemas de multiplicação",
+   "ano": 4,
+   "objetos_conhecimento": [
+    "Problemas envolvendo diferentes significados da multiplicação e da divisão: adição de parcelas iguais, configuração retangular, proporcionalidade, repartição equitativa e medida"
+   ],
+   "descricao": "Resolver e elaborar problemas envolvendo diferentes significados da multiplicação (adição de parcelas iguais, organização retangular e proporcionalidade), utilizando estratégias diversas, como cálculo por estimativa, cálculo mental e algoritmos.",
+   "pre_requisitos": [
+    "EF04MA05"
+   ],
+   "dependentes": [
+    "EF04MA07"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF04MA07",
+   "titulo": "Divisão por números de dois algarismos",
+   "ano": 4,
+   "objetos_conhecimento": [
+    "Problemas envolvendo diferentes significados da multiplicação e da divisão: adição de parcelas iguais, configuração retangular, proporcionalidade, repartição equitativa e medida"
+   ],
+   "descricao": "Resolver e elaborar problemas de divisão cujo divisor tenha no máximo dois algarismos, envolvendo os significados de repartição equitativa e de medida, utilizando estratégias diversas, como cálculo por estimativa, cálculo mental e algoritmos.",
+   "pre_requisitos": [
+    "EF04MA04",
+    "EF04MA06"
+   ],
+   "dependentes": [
+    "EF05MA03",
+    "EF05MA08",
+    "EF06MA03",
+    "EF06MA04"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF04MA08",
+   "titulo": "Contar combinações",
+   "ano": 4,
+   "objetos_conhecimento": [
+    "Problemas de contagem"
+   ],
+   "descricao": "Resolver, com o suporte de imagem e/ou material manipulável, problemas simples de contagem, como a determinação do número de agrupamentos possíveis ao se combinar cada elemento de uma coleção com todos os elementos de outra, utilizando estratégias e formas de registro pessoais.",
+   "pre_requisitos": [
+    "EF03MA07"
+   ],
+   "dependentes": [
+    "EF05MA09"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF04MA09",
+   "titulo": "Frações unitárias",
+   "ano": 4,
+   "objetos_conhecimento": [
+    "Números racionais: frações unitárias mais usuais (1/2, 1/3, 1/4, 1/5, 1/10 e 1/100)"
+   ],
+   "descricao": "Reconhecer as frações unitárias mais usuais (1/2, 1/3, 1/4, 1/5, 1/10 e 1/100) como unidades de medida menores do que uma unidade, utilizando a reta numérica como recurso.",
+   "pre_requisitos": [
+    "EF03MA04",
+    "EF03MA09"
+   ],
+   "dependentes": [
+    "EF04MA10",
+    "EF05MA03"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF04MA10",
+   "titulo": "Décimos, centésimos e dinheiro",
+   "ano": 4,
+   "objetos_conhecimento": [
+    "Números racionais: representação decimal para escrever valores do sistema monetário brasileiro"
+   ],
+   "descricao": "Reconhecer que as regras do sistema de numeração decimal podem ser estendidas para a representação decimal de um número racional e relacionar décimos e centésimos com a representação do sistema monetário brasileiro.",
+   "pre_requisitos": [
+    "EF04MA02",
+    "EF04MA09"
+   ],
+   "dependentes": [
+    "EF05MA02"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF05MA01",
+   "titulo": "Números até a centena de milhar",
+   "ano": 5,
+   "objetos_conhecimento": [
+    "Sistema de numeração decimal: leitura, escrita e ordenação de números naturais (de até seis ordens)"
+   ],
+   "descricao": "Ler, escrever e ordenar números naturais até a ordem das centenas de milhar com compreensão das principais características do sistema de numeração decimal.",
+   "pre_requisitos": [
+    "EF04MA02"
+   ],
+   "dependentes": [
+    "EF05MA02",
+    "EF06MA03"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF05MA02",
+   "titulo": "Números decimais",
+   "ano": 5,
+   "objetos_conhecimento": [
+    "Números racionais expressos na forma decimal e sua representação na reta numérica"
+   ],
+   "descricao": "Ler, escrever e ordenar números racionais na forma decimal com compreensão das principais características do sistema de numeração decimal, utilizando, como recursos, a composição e decomposição e a reta numérica.",
+   "pre_requisitos": [
+    "EF04MA10",
+    "EF05MA01"
+   ],
+   "dependentes": [
+    "EF05MA05",
+    "EF05MA07",
+    "EF05MA08",
+    "EF06MA02"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF05MA03",
+   "titulo": "O que é uma fração",
+   "ano": 5,
+   "objetos_conhecimento": [
+    "Representação fracionária dos números racionais: reconhecimento, significados, leitura e representação na reta numérica"
+   ],
+   "descricao": "Identificar e representar frações (menores e maiores que a unidade), associando-as ao resultado de uma divisão ou à ideia de parte de um todo, utilizando a reta numérica como recurso.",
+   "pre_requisitos": [
+    "EF04MA07",
+    "EF04MA09"
+   ],
+   "dependentes": [
+    "EF05MA04",
+    "EF05MA06",
+    "EF06MA09"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF05MA04",
+   "titulo": "Frações equivalentes",
+   "ano": 5,
+   "objetos_conhecimento": [
+    "Comparação e ordenação de números racionais na representação decimal e na fracionária utilizando a noção de equivalência"
+   ],
+   "descricao": "Identificar frações equivalentes.",
+   "pre_requisitos": [
+    "EF05MA03"
+   ],
+   "dependentes": [
+    "EF05MA05"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF05MA05",
+   "titulo": "Comparar frações e decimais",
+   "ano": 5,
+   "objetos_conhecimento": [
+    "Comparação e ordenação de números racionais na representação decimal e na fracionária utilizando a noção de equivalência"
+   ],
+   "descricao": "Comparar e ordenar números racionais positivos (representações fracionária e decimal), relacionando-os a pontos na reta numérica.",
+   "pre_requisitos": [
+    "EF05MA02",
+    "EF05MA04"
+   ],
+   "dependentes": [
+    "EF06MA01",
+    "EF06MA07"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF05MA06",
+   "titulo": "Primeiras porcentagens",
+   "ano": 5,
+   "objetos_conhecimento": [
+    "Cálculo de porcentagens e representação fracionária"
+   ],
+   "descricao": "Associar as representações 10%, 25%, 50%, 75% e 100% respectivamente à décima parte, quarta parte, metade, três quartos e um inteiro, para calcular porcentagens, utilizando estratégias pessoais, cálculo mental e calculadora, em contextos de educação financeira, entre outros.",
+   "pre_requisitos": [
+    "EF05MA03"
+   ],
+   "dependentes": [
+    "EF06MA13"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF05MA07",
+   "titulo": "Somar e subtrair decimais",
+   "ano": 5,
+   "objetos_conhecimento": [
+    "Problemas: adição e subtração de números naturais e números racionais cuja representação decimal é finita"
+   ],
+   "descricao": "Resolver e elaborar problemas de adição e subtração com números naturais e com números racionais, cuja representação decimal seja finita, utilizando estratégias diversas, como cálculo por estimativa, cálculo mental e algoritmos.",
+   "pre_requisitos": [
+    "EF04MA03",
+    "EF05MA02"
+   ],
+   "dependentes": [
+    "EF06MA11"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF05MA08",
+   "titulo": "Multiplicar e dividir decimais",
+   "ano": 5,
+   "objetos_conhecimento": [
+    "Problemas: multiplicação e divisão de números racionais cuja representação decimal é finita por números naturais"
+   ],
+   "descricao": "Resolver e elaborar problemas de multiplicação e divisão com números naturais e com números racionais cuja representação decimal é finita (com multiplicador natural e divisor natural e diferente de zero), utilizando estratégias diversas, como cálculo por estimativa, cálculo mental e algoritmos.",
+   "pre_requisitos": [
+    "EF04MA07",
+    "EF05MA02"
+   ],
+   "dependentes": [
+    "EF06MA11"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF05MA09",
+   "titulo": "Princípio multiplicativo",
+   "ano": 5,
+   "objetos_conhecimento": [
+    "Problemas de contagem do tipo: “Se cada objeto de uma coleção A for combinado com todos os elementos de uma coleção B, quantos agrupamentos desse tipo podem ser formados?”"
+   ],
+   "descricao": "Resolver e elaborar problemas simples de contagem envolvendo o princípio multiplicativo, como a determinação do número de agrupamentos possíveis ao se combinar cada elemento de uma coleção com todos os elementos de outra coleção, por meio de diagramas de árvore ou por tabelas.",
+   "pre_requisitos": [
+    "EF04MA08"
+   ],
+   "dependentes": [
+    "EF08MA03"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF06MA01",
+   "titulo": "Ordenar naturais e decimais",
+   "ano": 6,
+   "objetos_conhecimento": [
+    "Sistema de numeração decimal: características, leitura, escrita e comparação de números naturais e de números racionais representados na forma decimal"
+   ],
+   "descricao": "Comparar, ordenar, ler e escrever números naturais e números racionais cuja representação decimal é finita, fazendo uso da reta numérica.",
+   "pre_requisitos": [
+    "EF05MA05"
+   ],
+   "dependentes": [
+    "EF06MA11",
+    "EF07MA03"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF06MA02",
+   "titulo": "Como funciona o sistema decimal",
+   "ano": 6,
+   "objetos_conhecimento": [
+    "Sistema de numeração decimal: características, leitura, escrita e comparação de números naturais e de números racionais representados na forma decimal"
+   ],
+   "descricao": "Reconhecer o sistema de numeração decimal, como o que prevaleceu no mundo ocidental, e destacar semelhanças e diferenças com outros sistemas, de modo a sistematizar suas principais características (base, valor posicional e função do zero), utilizando, inclusive, a composição e decomposição de números naturais e números racionais em sua representação decimal.",
+   "pre_requisitos": [
+    "EF05MA02"
+   ],
+   "dependentes": [
+    "EF06MA12"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF06MA03",
+   "titulo": "Operações e potências com naturais",
+   "ano": 6,
+   "objetos_conhecimento": [
+    "Operações (adição, subtração, multiplicação, divisão e potenciação) com números naturais",
+    "Divisão euclidiana"
+   ],
+   "descricao": "Resolver e elaborar problemas que envolvam cálculos (mentais ou escritos, exatos ou aproximados) com números naturais, por meio de estratégias variadas, com compreensão dos processos neles envolvidos com e sem uso de calculadora.",
+   "pre_requisitos": [
+    "EF04MA07",
+    "EF05MA01"
+   ],
+   "dependentes": [
+    "EF06MA05",
+    "EF06MA09",
+    "EF06MA11",
+    "EF07MA04",
+    "EF07MA05"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF06MA04",
+   "titulo": "Algoritmos e fluxogramas",
+   "ano": 6,
+   "objetos_conhecimento": [
+    "Fluxograma para determinar a paridade de um número natural",
+    "Múltiplos e divisores de um número natural Números primos e compostos"
+   ],
+   "descricao": "Construir algoritmo em linguagem natural e representá-lo por fluxograma que indique a resolução de um problema simples (por exemplo, se um número natural qualquer é par).",
+   "pre_requisitos": [
+    "EF04MA07"
+   ],
+   "dependentes": [
+    "EF07MA05"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF06MA05",
+   "titulo": "Múltiplos, divisores e números primos",
+   "ano": 6,
+   "objetos_conhecimento": [
+    "Fluxograma para determinar a paridade de um número natural",
+    "Múltiplos e divisores de um número natural Números primos e compostos"
+   ],
+   "descricao": "Classificar números naturais em primos e compostos, estabelecer relações entre números, expressas pelos termos “é múltiplo de”, “é divisor de”, “é fator de”, e estabelecer, por meio de investigações, critérios de divisibilidade por 2, 3, 4, 5, 6, 8, 9, 10, 100 e 1000.",
+   "pre_requisitos": [
+    "EF06MA03"
+   ],
+   "dependentes": [
+    "EF06MA06"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF06MA06",
+   "titulo": "Problemas com múltiplos e divisores",
+   "ano": 6,
+   "objetos_conhecimento": [
+    "Fluxograma para determinar a paridade de um número natural",
+    "Múltiplos e divisores de um número natural Números primos e compostos"
+   ],
+   "descricao": "Resolver e elaborar problemas que envolvam as ideias de múltiplo e de divisor.",
+   "pre_requisitos": [
+    "EF06MA05"
+   ],
+   "dependentes": [
+    "EF06MA10",
+    "EF07MA01"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF06MA07",
+   "titulo": "Comparar e ordenar frações",
+   "ano": 6,
+   "objetos_conhecimento": [
+    "Frações: significados (parte/todo, quociente), equivalência, comparação, adição e subtração; cálculo da fração de um número natural; adição e subtração de frações"
+   ],
+   "descricao": "Compreender, comparar e ordenar frações associadas às ideias de partes de inteiros e resultado de divisão, identificando frações equivalentes.",
+   "pre_requisitos": [
+    "EF05MA05"
+   ],
+   "dependentes": [
+    "EF06MA08",
+    "EF06MA10",
+    "EF07MA08"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF06MA08",
+   "titulo": "De fração para decimal e vice-versa",
+   "ano": 6,
+   "objetos_conhecimento": [
+    "Frações: significados (parte/todo, quociente), equivalência, comparação, adição e subtração; cálculo da fração de um número natural; adição e subtração de frações"
+   ],
+   "descricao": "Reconhecer que os números racionais positivos podem ser expressos nas formas fracionária e decimal, estabelecer relações entre essas representações, passando de uma representação para outra, e relacioná-los a pontos na reta numérica.",
+   "pre_requisitos": [
+    "EF06MA07"
+   ],
+   "dependentes": [
+    "EF07MA10"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF06MA09",
+   "titulo": "Fração de uma quantidade",
+   "ano": 6,
+   "objetos_conhecimento": [
+    "Frações: significados (parte/todo, quociente), equivalência, comparação, adição e subtração; cálculo da fração de um número natural; adição e subtração de frações"
+   ],
+   "descricao": "Resolver e elaborar problemas que envolvam o cálculo da fração de uma quantidade e cujo resultado seja um número natural, com e sem uso de calculadora.",
+   "pre_requisitos": [
+    "EF05MA03",
+    "EF06MA03"
+   ],
+   "dependentes": [
+    "EF06MA13",
+    "EF07MA08",
+    "EF07MA11"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF06MA10",
+   "titulo": "Somar e subtrair frações",
+   "ano": 6,
+   "objetos_conhecimento": [
+    "Frações: significados (parte/todo, quociente), equivalência, comparação, adição e subtração; cálculo da fração de um número natural; adição e subtração de frações"
+   ],
+   "descricao": "Resolver e elaborar problemas que envolvam adição ou subtração com números racionais positivos na representação fracionária.",
+   "pre_requisitos": [
+    "EF06MA06",
+    "EF06MA07"
+   ],
+   "dependentes": [
+    "EF07MA12"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF06MA11",
+   "titulo": "Operações com decimais",
+   "ano": 6,
+   "objetos_conhecimento": [
+    "Operações (adição, subtração, multiplicação, divisão e potenciação) com números racionais"
+   ],
+   "descricao": "Resolver e elaborar problemas com números racionais positivos na representação decimal, envolvendo as quatro operações fundamentais e a potenciação, por meio de estratégias diversas, utilizando estimativas e arredondamentos para verificar a razoabilidade de respostas, com e sem uso de calculadora.",
+   "pre_requisitos": [
+    "EF05MA07",
+    "EF05MA08",
+    "EF06MA01",
+    "EF06MA03"
+   ],
+   "dependentes": [
+    "EF07MA02",
+    "EF07MA11"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF06MA12",
+   "titulo": "Arredondar e estimar",
+   "ano": 6,
+   "objetos_conhecimento": [
+    "Aproximação de números para múltiplos de potências de 10"
+   ],
+   "descricao": "Fazer estimativas de quantidades e aproximar números para múltiplos da potência de 10 mais próxima.",
+   "pre_requisitos": [
+    "EF06MA02"
+   ],
+   "dependentes": [],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF06MA13",
+   "titulo": "Porcentagem sem regra de três",
+   "ano": 6,
+   "objetos_conhecimento": [
+    "Cálculo de porcentagens por meio de estratégias diversas, sem fazer uso da “regra de três”"
+   ],
+   "descricao": "Resolver e elaborar problemas que envolvam porcentagens, com base na ideia de proporcionalidade, sem fazer uso da “regra de três”, utilizando estratégias pessoais, cálculo mental e calculadora, em contextos de educação financeira, entre outros.",
+   "pre_requisitos": [
+    "EF05MA06",
+    "EF06MA09"
+   ],
+   "dependentes": [
+    "EF07MA02"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF07MA01",
+   "titulo": "MMC e MDC",
+   "ano": 7,
+   "objetos_conhecimento": [
+    "Múltiplos e divisores de um número natural"
+   ],
+   "descricao": "Resolver e elaborar problemas com números naturais, envolvendo as noções de divisor e de múltiplo, podendo incluir máximo divisor comum ou mínimo múltiplo comum, por meio de estratégias diversas, sem a aplicação de algoritmos.",
+   "pre_requisitos": [
+    "EF06MA06"
+   ],
+   "dependentes": [],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF07MA02",
+   "titulo": "Aumentos e descontos",
+   "ano": 7,
+   "objetos_conhecimento": [
+    "Cálculo de porcentagens e de acréscimos e decréscimos simples"
+   ],
+   "descricao": "Resolver e elaborar problemas que envolvam porcentagens, como os que lidam com acréscimos e decréscimos simples, utilizando estratégias pessoais, cálculo mental e calculadora, no contexto de educação financeira, entre outros.",
+   "pre_requisitos": [
+    "EF06MA11",
+    "EF06MA13"
+   ],
+   "dependentes": [
+    "EF08MA04"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF07MA03",
+   "titulo": "Números negativos",
+   "ano": 7,
+   "objetos_conhecimento": [
+    "Números inteiros: usos, história, ordenação, associação com pontos da reta numérica e operações"
+   ],
+   "descricao": "Comparar e ordenar números inteiros em diferentes contextos, incluindo o histórico, associá-los a pontos da reta numérica e utilizá-los em situações que envolvam adição e subtração.",
+   "pre_requisitos": [
+    "EF06MA01"
+   ],
+   "dependentes": [
+    "EF07MA04",
+    "EF07MA10"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF07MA04",
+   "titulo": "Operações com números inteiros",
+   "ano": 7,
+   "objetos_conhecimento": [
+    "Números inteiros: usos, história, ordenação, associação com pontos da reta numérica e operações"
+   ],
+   "descricao": "Resolver e elaborar problemas que envolvam operações com números inteiros.",
+   "pre_requisitos": [
+    "EF06MA03",
+    "EF07MA03"
+   ],
+   "dependentes": [
+    "EF07MA11"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF07MA05",
+   "titulo": "Um problema, vários caminhos",
+   "ano": 7,
+   "objetos_conhecimento": [
+    "Fração e seus significados: como parte de inteiros, resultado da divisão, razão e operador"
+   ],
+   "descricao": "Resolver um mesmo problema utilizando diferentes algoritmos.",
+   "pre_requisitos": [
+    "EF06MA03",
+    "EF06MA04"
+   ],
+   "dependentes": [
+    "EF07MA06"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF07MA06",
+   "titulo": "Problemas com a mesma estrutura",
+   "ano": 7,
+   "objetos_conhecimento": [
+    "Fração e seus significados: como parte de inteiros, resultado da divisão, razão e operador"
+   ],
+   "descricao": "Reconhecer que as resoluções de um grupo de problemas que têm a mesma estrutura podem ser obtidas utilizando os mesmos procedimentos.",
+   "pre_requisitos": [
+    "EF07MA05"
+   ],
+   "dependentes": [
+    "EF07MA07"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF07MA07",
+   "titulo": "Fluxogramas para resolver problemas",
+   "ano": 7,
+   "objetos_conhecimento": [
+    "Fração e seus significados: como parte de inteiros, resultado da divisão, razão e operador"
+   ],
+   "descricao": "Representar por meio de um fluxograma os passos utilizados para resolver um grupo de problemas.",
+   "pre_requisitos": [
+    "EF07MA06"
+   ],
+   "dependentes": [],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF07MA08",
+   "titulo": "Os vários sentidos da fração",
+   "ano": 7,
+   "objetos_conhecimento": [
+    "Fração e seus significados: como parte de inteiros, resultado da divisão, razão e operador"
+   ],
+   "descricao": "Comparar e ordenar frações associadas às ideias de partes de inteiros, resultado da divisão, razão e operador.",
+   "pre_requisitos": [
+    "EF06MA07",
+    "EF06MA09"
+   ],
+   "dependentes": [
+    "EF07MA09"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF07MA09",
+   "titulo": "Razão e fração",
+   "ano": 7,
+   "objetos_conhecimento": [
+    "Fração e seus significados: como parte de inteiros, resultado da divisão, razão e operador"
+   ],
+   "descricao": "Utilizar, na resolução de problemas, a associação entre razão e fração, como a fração 2/3 para expressar a razão de duas partes de uma grandeza para três partes da mesma ou três partes de outra grandeza.",
+   "pre_requisitos": [
+    "EF07MA08"
+   ],
+   "dependentes": [],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF07MA10",
+   "titulo": "Racionais na reta numérica",
+   "ano": 7,
+   "objetos_conhecimento": [
+    "Números racionais na representação fracionária e na decimal: usos, ordenação e associação com pontos da reta numérica e operações"
+   ],
+   "descricao": "Comparar e ordenar números racionais em diferentes contextos e associá-los a pontos da reta numérica.",
+   "pre_requisitos": [
+    "EF06MA08",
+    "EF07MA03"
+   ],
+   "dependentes": [
+    "EF07MA11"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF07MA11",
+   "titulo": "Multiplicar e dividir frações",
+   "ano": 7,
+   "objetos_conhecimento": [
+    "Números racionais na representação fracionária e na decimal: usos, ordenação e associação com pontos da reta numérica e operações"
+   ],
+   "descricao": "Compreender e utilizar a multiplicação e a divisão de números racionais, a relação entre elas e suas propriedades operatórias.",
+   "pre_requisitos": [
+    "EF06MA09",
+    "EF06MA11",
+    "EF07MA04",
+    "EF07MA10"
+   ],
+   "dependentes": [
+    "EF07MA12",
+    "EF08MA01"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF07MA12",
+   "titulo": "Problemas com números racionais",
+   "ano": 7,
+   "objetos_conhecimento": [
+    "Números racionais na representação fracionária e na decimal: usos, ordenação e associação com pontos da reta numérica e operações"
+   ],
+   "descricao": "Resolver e elaborar problemas que envolvam as operações com números racionais.",
+   "pre_requisitos": [
+    "EF06MA10",
+    "EF07MA11"
+   ],
+   "dependentes": [
+    "EF08MA05"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF08MA01",
+   "titulo": "Potências e notação científica",
+   "ano": 8,
+   "objetos_conhecimento": [
+    "Notação científica"
+   ],
+   "descricao": "Efetuar cálculos com potências de expoentes inteiros e aplicar esse conhecimento na representação de números em notação científica.",
+   "pre_requisitos": [
+    "EF07MA11"
+   ],
+   "dependentes": [
+    "EF08MA02"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF08MA02",
+   "titulo": "Potências e raízes",
+   "ano": 8,
+   "objetos_conhecimento": [
+    "Potenciação e radiciação"
+   ],
+   "descricao": "Resolver e elaborar problemas usando a relação entre potenciação e radiciação, para representar uma raiz como potência de expoente fracionário.",
+   "pre_requisitos": [
+    "EF08MA01"
+   ],
+   "dependentes": [
+    "EF09MA01"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF08MA03",
+   "titulo": "Problemas de contagem",
+   "ano": 8,
+   "objetos_conhecimento": [
+    "O princípio multiplicativo da contagem"
+   ],
+   "descricao": "Resolver e elaborar problemas de contagem cuja resolução envolva a aplicação do princípio multiplicativo.",
+   "pre_requisitos": [
+    "EF05MA09"
+   ],
+   "dependentes": [],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF08MA04",
+   "titulo": "Porcentagens",
+   "ano": 8,
+   "objetos_conhecimento": [
+    "Porcentagens"
+   ],
+   "descricao": "Resolver e elaborar problemas, envolvendo cálculo de porcentagens, incluindo o uso de tecnologias digitais.",
+   "pre_requisitos": [
+    "EF07MA02"
+   ],
+   "dependentes": [
+    "EF09MA05"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF08MA05",
+   "titulo": "Dízimas periódicas e fração geratriz",
+   "ano": 8,
+   "objetos_conhecimento": [
+    "Dízimas periódicas: fração geratriz"
+   ],
+   "descricao": "Reconhecer e utilizar procedimentos para a obtenção de uma fração geratriz para uma dízima periódica.",
+   "pre_requisitos": [
+    "EF07MA12"
+   ],
+   "dependentes": [
+    "EF09MA02"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF09MA01",
+   "titulo": "Por que precisamos dos irracionais",
+   "ano": 9,
+   "objetos_conhecimento": [
+    "Necessidade dos números reais para medir qualquer segmento de reta",
+    "Números irracionais: reconhecimento e localização de alguns na reta numérica"
+   ],
+   "descricao": "Reconhecer que, uma vez fixada uma unidade de comprimento, existem segmentos de reta cujo comprimento não é expresso por número racional (como as medidas de diagonais de um polígono e alturas de um triângulo, quando se toma a medida de cada lado como unidade).",
+   "pre_requisitos": [
+    "EF08MA02"
+   ],
+   "dependentes": [
+    "EF09MA02"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF09MA02",
+   "titulo": "Números irracionais",
+   "ano": 9,
+   "objetos_conhecimento": [
+    "Necessidade dos números reais para medir qualquer segmento de reta",
+    "Números irracionais: reconhecimento e localização de alguns na reta numérica"
+   ],
+   "descricao": "Reconhecer um número irracional como um número real cuja representação decimal é infinita e não periódica, e estimar a localização de alguns deles na reta numérica.",
+   "pre_requisitos": [
+    "EF08MA05",
+    "EF09MA01"
+   ],
+   "dependentes": [
+    "EF09MA03"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF09MA03",
+   "titulo": "Potências com expoente fracionário",
+   "ano": 9,
+   "objetos_conhecimento": [
+    "Potências com expoentes negativos e fracionários"
+   ],
+   "descricao": "Efetuar cálculos com números reais, inclusive potências com expoentes fracionários.",
+   "pre_requisitos": [
+    "EF09MA02"
+   ],
+   "dependentes": [
+    "EF09MA04"
+   ],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF09MA04",
+   "titulo": "Problemas com números reais",
+   "ano": 9,
+   "objetos_conhecimento": [
+    "Números reais: notação científica e problemas"
+   ],
+   "descricao": "Resolver e elaborar problemas com números reais, inclusive em notação científica, envolvendo diferentes operações.",
+   "pre_requisitos": [
+    "EF09MA03"
+   ],
+   "dependentes": [],
+   "link_estudo": ""
+  },
+  {
+   "codigo": "EF09MA05",
+   "titulo": "Porcentagens sucessivas e juros",
+   "ano": 9,
+   "objetos_conhecimento": [
+    "Porcentagens: problemas que envolvem cálculo de percentuais sucessivos"
+   ],
+   "descricao": "Resolver e elaborar problemas que envolvam porcentagens, com a ideia de aplicação de percentuais sucessivos e a determinação das taxas percentuais, preferencialmente com o uso de tecnologias digitais, no contexto da educação financeira.",
+   "pre_requisitos": [
+    "EF08MA04"
+   ],
+   "dependentes": [],
+   "link_estudo": ""
+  }
+ ],
+ "_titulo": "'titulo' é um nome curto escrito para o site; 'descricao' é o texto oficial da BNCC."
+}

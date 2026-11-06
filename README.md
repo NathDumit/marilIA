@@ -1,66 +1,70 @@
 # MarilIA
 
-Teste adaptativo de matemática que encontra o ponto em que a base de cada pessoa travou e monta a trilha de estudo a partir dali, até a ciência e a tecnologia. Homenagem a Marília Chaves Peixoto (1921–1961), primeira brasileira doutora em matemática.
+[Português](README.pt-BR.md) · English
 
-MVP: eixo **Números** da BNCC, Ensino Fundamental (1º ao 9º ano), 79 habilidades.
+An adaptive math test that finds the point where a person's foundation broke down and builds a study path from there, all the way to science and technology. Named in honor of Marília Chaves Peixoto (1921–1961), the first Brazilian woman to earn a PhD in mathematics.
 
-## Estrutura
+MVP: the **Numbers** strand of Brazil's national curriculum (BNCC), elementary and middle school (grades 1 to 9), 79 skills.
+
+> The app itself (questions, skill texts, interface) is in Portuguese on purpose: it is built for Brazilian students and follows the BNCC. This README explains the project and the engine in English.
+
+## Structure
 
 ```
-index.html          página única (início, teste e diagnóstico)
-css/style.css       visual
-js/motor.js         motor adaptativo (sem dependência de navegador)
-js/app.js           telas
-data/mapa.json      habilidades da BNCC + pré-requisitos  ← conteúdo
-data/questoes.json  banco de questões                     ← conteúdo
-data/conteudo.json  textos do site (nome, homenagem etc.) ← conteúdo
-scripts/simular.js  testes do motor com perfis simulados
-vercel.json         configuração do deploy
+index.html          single page (start, test and diagnosis)
+css/style.css       look and feel
+js/motor.js         adaptive engine ("motor"), no browser dependency
+js/app.js           screens
+data/mapa.json      BNCC skills + prerequisites          ← content
+data/questoes.json  question bank                        ← content
+data/conteudo.json  site texts (name, tribute, etc.)     ← content
+scripts/simular.js  engine tests with simulated profiles
+vercel.json         deploy configuration
 ```
 
-Para mudar texto, questões ou ligações, edite só os arquivos de `data/`. O código não precisa mudar.
+To change texts, questions or links between skills, edit only the files in `data/`. The code does not need to change.
 
-## Rodar no computador
+## Run locally
 
-O navegador bloqueia a leitura dos arquivos de `data/` quando o `index.html` é aberto direto. Use um servidor local:
+Browsers block reading the `data/` files when `index.html` is opened directly. Use a local server:
 
 ```bash
 python3 -m http.server 8000
-# abra http://localhost:8000
+# open http://localhost:8000
 ```
 
-## Testar o motor
+## Test the engine
 
 ```bash
 node scripts/simular.js
 ```
 
-Simula pessoas com lacunas conhecidas e confere se o teste encontra o ponto de partida certo.
+It simulates people with known gaps and checks that the test finds the right starting point.
 
-## Publicar na Vercel
+## Deploy on Vercel
 
-É um site estático: não precisa de build.
+It is a static site: no build step.
 
-1. Suba esta pasta para um repositório no GitHub.
-2. Na Vercel, **Add New → Project**, escolha o repositório.
-3. Em **Framework Preset**, deixe **Other**. Sem comando de build, diretório de saída `.` (raiz).
+1. Push this folder to a GitHub repository.
+2. In Vercel, **Add New → Project** and pick the repository.
+3. Leave **Framework Preset** as **Other**, no build command, output directory `.` (root).
 4. **Deploy**.
 
-Pela linha de comando: `npx vercel` dentro da pasta.
+From the command line: `npx vercel` inside the folder.
 
-## Como o motor funciona
+## How the engine works
 
-- Cada habilidade é um nó do grafo de pré-requisitos (`data/mapa.json`).
-- Acertou: a habilidade e todos os seus pré-requisitos contam como dominados.
-- Errou ou "Ainda não sei": a habilidade e tudo o que depende dela contam como lacuna.
-- A próxima pergunta é a habilidade desconhecida que divide melhor o que falta descobrir (como uma busca binária pelas cadeias).
-- Ponto de partida = a primeira lacuna cujos pré-requisitos estão todos dominados.
-- Em 500 perfis simulados com 1 a 3 lacunas, o motor acertou todos, com média de 18 perguntas e máximo de 26.
+- Each skill is a node in a prerequisite graph (`data/mapa.json`).
+- Correct answer: the skill and all of its prerequisites count as mastered.
+- Wrong answer or "I don't know yet": the skill and everything that depends on it count as gaps.
+- The next question is the unknown skill that best splits what is left to discover (like a binary search over the prerequisite chains).
+- Starting point = the first gap whose prerequisites are all mastered.
+- On 500 simulated profiles with 1 to 3 gaps, the engine got every one right, averaging 18 questions with a maximum of 26.
 
-Limitação conhecida: com uma questão por habilidade, um chute certo pode marcar uma cadeia inteira como dominada. O próximo passo é ter de 3 a 5 questões por habilidade e confirmar os acertos em habilidades com muitos pré-requisitos.
+Known limitation: with one question per skill, a lucky guess can mark an entire chain as mastered. The next step is 3 to 5 questions per skill and confirming correct answers on skills with many prerequisites.
 
-## Créditos e licenças
+## Credits and licenses
 
-- Textos das habilidades: BNCC (2018), via [bncc.dev](https://bncc.dev) (mantido pela Profy), licença CC BY 4.0: https://github.com/bncc-dev/bncc-dados
-- Pré-requisitos e questões: curadoria própria, rascunho pendente de revisão docente.
-- Links de estudo: busca da Khan Academy em português (confira se a busca abre resultados; dá para trocar por um link específico no campo `link_estudo` de cada habilidade em `data/mapa.json`).
+- Skill texts: BNCC (2018), via [bncc.dev](https://bncc.dev) (maintained by Profy), CC BY 4.0: https://github.com/bncc-dev/bncc-dados
+- Prerequisites and questions: own curation, draft pending review by math teachers.
+- Study links: Khan Academy search in Portuguese (check that the search opens results; each skill's `link_estudo` field in `data/mapa.json` can be replaced with a specific link).
